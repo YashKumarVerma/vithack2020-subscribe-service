@@ -2,6 +2,10 @@
 
 ## VIT Hack 2020
 
-Code for the micro-service which adds a new user to subscribers list
+Code for the api which adds a new user to subscribers list
 
 ---
+
+## Docs
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/10043948/Szf54VJt)
